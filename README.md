@@ -1,18 +1,18 @@
-#megamap
+# megamap
 Supersize images from bing maps
 
-##Requirements
+## Requirements
 
 * Python
 * ImageMagick
 * Wireshark
 
-##Usage
+## Usage
 ```
 python
 ```
 
-##Example image
+## Example image
 
 ![alt image](https://github.com/zerjioang/megamap/raw/master/example/thumb.jpg)
 
@@ -24,12 +24,12 @@ Megapixels = 136 Megapixels
 
 Aspect ratio = 0.74
 
-##Comparison
+## Comparison
 
 Comparison with current resolution formats
 
 ![alt image](https://github.com/zerjioang/megamap/raw/master/example/comparison.png)
 
-#License
+# License
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
